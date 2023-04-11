@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyChat</string>
+    <string name="password">Senha</string>
+    <string name="email">E-mail</string>
+    <string name="enter">Enter</string>
+    <string name="account">Não tem uma conta? Crie aqui!</string>
+    <string name="name">Nome</string>
+    <string name="create_account">Criar conta</string>
+</resources>
